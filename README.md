@@ -2,6 +2,17 @@
 
 **Computer Engineering Student | Data Science & Automation Enthusiast | Cloud Developer**
 
+![Python](https://img.shields.io/badge/Python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
+![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=FF9900)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
+![Elasticsearch](https://img.shields.io/badge/Elasticsearch-005571?style=for-the-badge&logo=elasticsearch&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![Web Scraping](https://img.shields.io/badge/Web_Scraping-FF6F61?style=for-the-badge&logo=python&logoColor=white)
+
+---
+
+
+
 🔭 Currently working at **Zoneomics**, where I specialize in scraping, processing, and managing complex zoning, parcel, and permit datasets with scalable pipelines.
 
 ---
